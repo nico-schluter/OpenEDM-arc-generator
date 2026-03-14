@@ -1,5 +1,10 @@
 # OpenEDM-arc-generator
 
+## Phos Edition Warning
+
+This fork is a recreation of the OpenEDM Arc Generator, with the goal of making it more accessible and easier to build. The original project is already experimental hardware, and there may be new errors introduced in recreating it.
+USE AT YOUR OWN RISK.
+
 ## ⚠️ Safety Warning & Disclaimer
 
 THIS PROJECT INVOLVES LETHAL VOLTAGES AND OTHER SERIOUS HAZARDS THAT CAN CAUSE SEVERE INJURY OR DEATH. YOU MUST READ THE FULL [SAFETY WARNING AND DISCLAIMER DOCUMENT](https://github.com/OpenEDM/.github/blob/main/docs/SAFETY_WARNING_AND_DISCLAIMER.md) BEFORE USING ANY PROJECT FILES. BY PROCEEDING, YOU ACKNOWLEDGE AND ACCEPT ALL RISKS AND AGREE TO USE THIS PROJECT ENTIRELY AT YOUR OWN RESPONSIBILITY.
