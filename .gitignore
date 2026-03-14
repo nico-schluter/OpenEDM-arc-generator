@@ -1,0 +1,80 @@
+# macOS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# KiCad files
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*.kicad_pro-bak
+*.kicad_sym-bak
+*.kicad_wks
+*.kicad_wks-bak
+*.net
+*.dcm
+*.pro
+*.sch
+#auto_saved_files#
+**/#auto_saved_files#
+fp-info-cache
+sym-lib-table
+*.bak
+*.lck
+~*
+
+# QSPICE/QUCS simulation files
+*.dll
+*.qopraw
+*.qsch
+*.raw
+
+# Backup directories
+*-backups/
+backups/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.orig
+*.rej
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Build outputs
+*.hex
+*.bin
+*.elf
+*.map
+*.lss
+*.lst
+
+# Documentation build
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.synctex.gz
+*.toc
+
+# Archives
+*.zip
+*.rar
+*.7z
+*.tar.gz
+*.tgz
+
+# OS specific
+.DS_Store?
+ehthumbs.db
+Thumbs.db
